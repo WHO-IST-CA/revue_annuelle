@@ -10,7 +10,7 @@
 <atom:link href="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Wed, 10 Dec 2025 13:22:31 GMT</lastBuildDate>
+<lastBuildDate>Wed, 10 Dec 2025 13:46:14 GMT</lastBuildDate>
 <item>
   <title>Inscriptions</title>
   <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/enregistrement.html</link>
@@ -35,7 +35,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/enregistrement.html</guid>
-  <pubDate>Wed, 10 Dec 2025 13:22:31 GMT</pubDate>
+  <pubDate>Wed, 10 Dec 2025 13:46:14 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -116,7 +116,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/note.html</guid>
-  <pubDate>Wed, 10 Dec 2025 13:22:31 GMT</pubDate>
+  <pubDate>Wed, 10 Dec 2025 13:46:14 GMT</pubDate>
 </item>
 <item>
   <title>Agenda</title>
@@ -582,7 +582,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/agenda.html</guid>
-  <pubDate>Wed, 10 Dec 2025 13:22:31 GMT</pubDate>
+  <pubDate>Wed, 10 Dec 2025 13:46:14 GMT</pubDate>
 </item>
 <item>
   <title>Contacts</title>
@@ -596,7 +596,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/about.html</guid>
-  <pubDate>Wed, 10 Dec 2025 13:22:31 GMT</pubDate>
+  <pubDate>Wed, 10 Dec 2025 13:46:14 GMT</pubDate>
   <media:content url="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/header.png" medium="image" type="image/png" height="129" width="144"/>
 </item>
 </channel>
