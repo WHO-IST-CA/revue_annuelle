@@ -10,7 +10,7 @@
 <atom:link href="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Thu, 11 Dec 2025 08:26:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 11 Dec 2025 08:53:53 GMT</lastBuildDate>
 <item>
   <title>Inscriptions</title>
   <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/enregistrement.html</link>
@@ -35,7 +35,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/enregistrement.html</guid>
-  <pubDate>Thu, 11 Dec 2025 08:26:12 GMT</pubDate>
+  <pubDate>Thu, 11 Dec 2025 08:53:53 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -71,8 +71,7 @@
 <section id="securité" class="level3">
 <h3 class="anchored" data-anchor-id="securité">Securité</h3>
 <p>La situation sécuritaire à Matadi est relativement calme. Les menaces liées à la sécurité auxquelles les personnes peuvent être confrontées à Matadi sont principalement de la criminalité et des troubles civils. La criminalité est répandue à Matadi, y compris dans la commune de XXXXXXX. Les activités criminelles comprennent le vol à la tire, le pickpocket, les cambriolages, les braquages d’individus et de véhicules. Les criminels concentrent leurs attaques sur les personnes perçues comme ayant de l’argent ou des objets de valeur. Les acteurs criminels identifiés sont les enfants de la rue communément appelés « Shegués », les gangs organisés « Kulunas ». Il est conseillé d’éviter les grands rassemblements publics, en particulier les manifestations politiques. Il est également important d’être conscient du danger que peut représenter la circulation routière à Matadi. Les accidents de la route sont très fréquents à Kinshasa où le code de la route est très peu respecté par les usagers.</p>
-<p>Il est recommandé de respecter les précautions de sécurité habituelles et de contacter le responsable de la sécurité et son assistant aux coordonnées ci-après :</p>
-<p>XXXXXXXXXX XXXXXXXXXXX</p>
+<p>Il est recommandé de respecter les précautions de sécurité habituelles et de contacter les adresses dans section des adresses et contacts utiles</p>
 </section>
 <section id="hébergement" class="level3">
 <h3 class="anchored" data-anchor-id="hébergement">Hébergement</h3>
@@ -98,8 +97,8 @@
 <h3 class="anchored" data-anchor-id="électricité">Électricité</h3>
 <p>Le courant électrique en RDC varie entre 3,22 et 4,89 kWh/m2/j. Les prises recommandées sont deux broches rondes.</p>
 </section>
-<section id="adresse-et-contactcs-utiles" class="level3">
-<h3 class="anchored" data-anchor-id="adresse-et-contactcs-utiles">Adresse et Contactcs Utiles</h3>
+<section id="contacts" class="level3">
+<h3 class="anchored" data-anchor-id="contacts">Adresses et Contacts Utiles</h3>
 <ul>
 <li>Direction PEV: <a href="mailto:directionpevrdc@gmail.com">directionpevrdc@gmail.com</a></li>
 <li>Suivi et Évaluation PEV: <a href="mailto:suivievaluationpev@gmail.com">suivievaluationpev@gmail.com</a></li>
@@ -116,7 +115,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/note.html</guid>
-  <pubDate>Thu, 11 Dec 2025 08:26:12 GMT</pubDate>
+  <pubDate>Thu, 11 Dec 2025 08:53:53 GMT</pubDate>
 </item>
 <item>
   <title>Agenda</title>
@@ -129,16 +128,14 @@
 <table class="caption-top table">
 <thead>
 <tr class="header">
-<th>Horaire</th>
-<th>Activité</th>
+<th>Horaires</th>
+<th>Activités</th>
 <th>Présentateur</th>
 <th>Organisation</th>
-<th></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -149,10 +146,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -165,7 +160,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/agenda.html</guid>
-  <pubDate>Thu, 11 Dec 2025 08:26:12 GMT</pubDate>
+  <pubDate>Thu, 11 Dec 2025 08:53:53 GMT</pubDate>
 </item>
 <item>
   <title>Contacts</title>
@@ -179,7 +174,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/about.html</guid>
-  <pubDate>Thu, 11 Dec 2025 08:26:12 GMT</pubDate>
+  <pubDate>Thu, 11 Dec 2025 08:53:53 GMT</pubDate>
   <media:content url="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/header.png" medium="image" type="image/png" height="129" width="144"/>
 </item>
 </channel>
