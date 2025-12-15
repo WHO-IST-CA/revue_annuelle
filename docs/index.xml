@@ -10,7 +10,7 @@
 <atom:link href="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Mon, 15 Dec 2025 09:12:14 GMT</lastBuildDate>
+<lastBuildDate>Mon, 15 Dec 2025 10:28:45 GMT</lastBuildDate>
 <item>
   <title>Présentations du 15 décembre 2025</title>
   <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day1.html</link>
@@ -83,7 +83,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day1.html</guid>
-  <pubDate>Mon, 15 Dec 2025 09:12:14 GMT</pubDate>
+  <pubDate>Mon, 15 Dec 2025 10:28:45 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 15 décembre 2025</title>
@@ -93,15 +93,13 @@
 
 
 
-<iframe src="https://worldhealthorg.shinyapps.io/attendance_sheet/" style="border: none; width: 100%; height: 100vh; margin: 0; padding: 0;" frameborder="0" allowfullscreen="">
-  </iframe>
-  
+<p>Veuillez enregistrer votre présence en suivant le lien <a href="https://worldhealthorg.shinyapps.io/attendance_sheet/" target="_blank" rel="noopener noreferrer">⚠️ Présence effective jour 1</a></p>
 
 
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour1.html</guid>
-  <pubDate>Mon, 15 Dec 2025 09:12:14 GMT</pubDate>
+  <pubDate>Mon, 15 Dec 2025 10:28:45 GMT</pubDate>
 </item>
 <item>
   <title>Inscriptions</title>
@@ -127,7 +125,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/enregistrement.html</guid>
-  <pubDate>Mon, 15 Dec 2025 09:12:14 GMT</pubDate>
+  <pubDate>Mon, 15 Dec 2025 10:28:45 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -199,7 +197,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/note.html</guid>
-  <pubDate>Mon, 15 Dec 2025 09:12:14 GMT</pubDate>
+  <pubDate>Mon, 15 Dec 2025 10:28:45 GMT</pubDate>
 </item>
 <item>
   <title>Agenda</title>
@@ -226,7 +224,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/agenda.html</guid>
-  <pubDate>Mon, 15 Dec 2025 09:12:14 GMT</pubDate>
+  <pubDate>Mon, 15 Dec 2025 10:28:45 GMT</pubDate>
 </item>
 <item>
   <title>Contacts</title>
@@ -240,7 +238,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/about.html</guid>
-  <pubDate>Mon, 15 Dec 2025 09:12:14 GMT</pubDate>
+  <pubDate>Mon, 15 Dec 2025 10:28:45 GMT</pubDate>
   <media:content url="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/header.png" medium="image" type="image/png" height="129" width="144"/>
 </item>
 </channel>
