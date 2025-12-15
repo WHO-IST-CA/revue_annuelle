@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/epi/jour1.html",
       "/epi/enregistrement.html",
       "/epi/note.html",
       "/epi/agenda.html",
