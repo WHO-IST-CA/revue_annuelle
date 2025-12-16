@@ -71,6 +71,26 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Recherche"
   }
 }</script>
+<link href="../site_libs/htmltools-fill-0.5.8.1/fill.css" rel="stylesheet">
+
+<script src="../site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+
+<script src="../site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+
+<link href="../site_libs/leaflet-1.3.1/leaflet.css" rel="stylesheet">
+
+<script src="../site_libs/leaflet-1.3.1/leaflet.js"></script>
+
+<link href="../site_libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet">
+
+<script src="../site_libs/proj4-2.6.2/proj4.min.js"></script>
+
+<script src="../site_libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
+
+<link href="../site_libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet">
+
+<script src="../site_libs/leaflet-binding-2.2.3.9000/leaflet.js"></script>
+
 
 
 <link rel="stylesheet" href="../styles.css">
@@ -138,6 +158,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="dropdown-item" href="../epi/day1.html">
  <span class="dropdown-text">Jour 1</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="../epi/day2.html">
+ <span class="dropdown-text">jour 2</span></a>
+  </li>  
     </ul>
   </li>
   <li class="nav-item">
@@ -165,7 +189,7 @@ ul.task-list li input[type="checkbox"] {
         
     <div class="quarto-other-links"><h2>Autres liens</h2><ul><li><a href="../meetings.ics"><i class="bi bi-download"></i>Telecharger Agenda</a></li><li><a href="../TDR revue annuelle.pdf"><i class="bi bi-download"></i>Termes de référence</a></li></ul></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -192,6 +216,13 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>Les enregistrements de la présence effective reprendront dans l’après midi</p>
+<p><strong><span color="red">86</span> participants enregistrés avant 9h00</strong> <em>Tous les participants enregistrés n’ont pas de coordonées GPS</em></p>
+<div class="cell page-columns page-full">
+<div class="cell-output-display column-screen">
+<div class="leaflet html-widget html-fill-item" id="htmlwidget-a92b5dc3b95d43affe79" style="width:100%;height:1152px;"></div>
+<script type="application/json" data-for="htmlwidget-a92b5dc3b95d43affe79">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]},{"method":"addMarkers","args":[[-5.8387068,-5.8387725,-4.3712512,-5.8369095,-5.8388182,-5.837483,-4.33,-5.837796,-5.838661,-5.837483,-5.8385167,-5.8378135,-4.3712512,-5.8385039,-5.838759896163392,-5.8375157,-5.8371526,-5.8384294,-5.8371526,-5.8387087,-5.8374743,-5.8386647,-5.8365704,-5.8386647,-5.83871,-5.8371526,-5.83854,-5.8386667,-5.8374743,-5.8388695,-5.8378309,-5.8387757,-5.8371526,-5.8372035,-5.838049,-5.8388695,-4.3712512,-5.8387214,-5.8371526,-5.8388695,-5.8371526,-5.8386923,-4.3712512,-5.8387177,-5.838508850445135,-5.8387177,-5.8371526,-5.8371526,-5.8371526,-5.8377872,-5.838526006633865,-5.838645,-4.299895],[13.4501095,13.4500617,15.302656,13.4481062,13.4501301,13.4509962,15.3104,13.4513574,13.4499801,13.4509962,13.4496933,13.4506349,15.3255936,13.4501017,13.45011530668718,13.4510888,13.4513574,13.4501675,13.4513574,13.4500309,13.4513574,13.4499485,13.4488287,13.4499485,13.4501612,13.4513574,13.450085,13.4499467,13.4513574,13.4499993,13.4499124,13.4501029,13.4513574,13.4491947,13.4490858,13.4499993,15.3255936,13.4503144,13.4513574,13.4499993,13.4513574,13.4501565,15.3255936,13.4498587,13.45008737376972,13.4498587,13.4513574,13.4513574,13.4513574,13.4517187,13.44994339785277,13.4501033,15.31758],null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},["Yves mayele","Ignace MWANZA NKASHAMA","JIBIKILAYI KASANDA SERGE","Benedict Nguimbis","Christophe KONSO","Crispin LUMBALA","Jean-Pierre WOSA","Barclay Kadiebwe","Jennyfer TAMBA NKEBANI","Thierry Kazadi","Pablito","SHULI TCHOMBA Jean Baptiste","Constant Kingongo","Aimé SOBONGO","Mboussou Franck","OYAYA Joseph","Laeticia mputu","Steve Matoma","Venant Atafo","KOTANDA BINA CHRISTOPHE","Joël Mulubu","Jean Pierre KIJANA MANIMININI","NGOY Lubambula Clément","Jean-Pierre KIJANA MANIMININI","Mpanya Ilunga Godefroid","AKARASIS Maksas Opwas","Mupungu Fati","Jean-Pierre KIJANA MANIMININI","Hubert IBI Atandele","Etoza Morale Christian","SERGE SUKANI","Dr Paulin BELANGA BOSUNGU","AKARASIS Maksas Opwas","Charlotte Njua Mbuh","Bolunza Mobonda Pierrot","De Jules katusi Biselenge","Jean Hilaire MUKOMA","Jean Pierre KIJANA MANIMININI","Constant Bowale","EBAMBE MARRE Louis","Valentin AKARASIS Maksas Opwas","KAYIJ MWINKEU ALAIN","Mitterand DIBULA","Dr Crispin KAZADI","FRANCIS KABASUBABO KABENGELE","Dr Crispin KAZADI","Valentin AKARASIS Maksas Opwas","Valentin AKARASIS Maksas Opwas","Mukalay wa Mukalay Abdon Sylvestre","Jean Louis MOPENE MO-EGBOLO","Jacky Matondo","DANVENE SANGBA DAVOS","Fred BULOBO MBAYO"],null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"fitBounds":[-6.1,13.2,-4.1,15.5,[]],"limits":{"lat":[-5.8388695,-4.299895],"lng":[13.4481062,15.3255936]}},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
 
 
 
