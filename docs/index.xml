@@ -10,7 +10,7 @@
 <atom:link href="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Tue, 16 Dec 2025 11:39:18 GMT</lastBuildDate>
+<lastBuildDate>Tue, 16 Dec 2025 12:01:33 GMT</lastBuildDate>
 <item>
   <title>Présentations du 16 décembre 2025</title>
   <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day2.html</link>
@@ -44,7 +44,7 @@
   <div class="card">
     <h3 class="anchored">Présentation Kasai</h3>
     <p>MCP Kasai</p>
-    <a href="presentations\j2\DPS_KASAI _revue annuelle 2025_FAE_IPVS_PEV_JKpptx.pptx" download="">Télécharger la présentation(FR)</a>
+    <a href="presentations\j2\DPS_KASAI _revue annuelle 2025_FAE_IPVS_PEV_JKpptx (1).pptx" download="">Télécharger la présentation(FR)</a>
     </div>
     <div class="card">
         <h3 class="anchored">Présentation Lomami</h3>
@@ -201,6 +201,11 @@
         <p>Unicef</p>
         <a href="presentations\j2\Revue_Annuelle-Presentation Partenaire_UNICEF DRC_J2 Revue.pptx" download="">Télécharger la présentation(FR)</a>
         </div>
+          <div class="card">
+            <h3 class="anchored">Présentation Lualaba</h3>
+            <p>MCP Lualaba</p>
+            <a href="presentations\j2\VF Canevas_Présentation_Provinces _revue annuelle 2025_PEV_LUALABA.pptx" download="">Télécharger la présentation(FR)</a>
+            </div>
                     
 </div>
   
@@ -209,7 +214,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day2.html</guid>
-  <pubDate>Tue, 16 Dec 2025 11:39:18 GMT</pubDate>
+  <pubDate>Tue, 16 Dec 2025 12:01:33 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 16 décembre 2025</title>
@@ -232,7 +237,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour2.html</guid>
-  <pubDate>Tue, 16 Dec 2025 11:39:18 GMT</pubDate>
+  <pubDate>Tue, 16 Dec 2025 12:01:33 GMT</pubDate>
 </item>
 <item>
   <title>Présentations du 15 décembre 2025</title>
@@ -312,7 +317,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day1.html</guid>
-  <pubDate>Tue, 16 Dec 2025 11:39:18 GMT</pubDate>
+  <pubDate>Tue, 16 Dec 2025 12:01:33 GMT</pubDate>
 </item>
 <item>
   <title>Inscriptions</title>
@@ -338,7 +343,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/enregistrement.html</guid>
-  <pubDate>Tue, 16 Dec 2025 11:39:18 GMT</pubDate>
+  <pubDate>Tue, 16 Dec 2025 12:01:33 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -410,7 +415,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/note.html</guid>
-  <pubDate>Tue, 16 Dec 2025 11:39:18 GMT</pubDate>
+  <pubDate>Tue, 16 Dec 2025 12:01:33 GMT</pubDate>
 </item>
 <item>
   <title>Agenda</title>
@@ -437,7 +442,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/agenda.html</guid>
-  <pubDate>Tue, 16 Dec 2025 11:39:18 GMT</pubDate>
+  <pubDate>Tue, 16 Dec 2025 12:01:33 GMT</pubDate>
 </item>
 <item>
   <title>Contacts</title>
@@ -451,7 +456,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/about.html</guid>
-  <pubDate>Tue, 16 Dec 2025 11:39:18 GMT</pubDate>
+  <pubDate>Tue, 16 Dec 2025 12:01:33 GMT</pubDate>
   <media:content url="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/header.png" medium="image" type="image/png" height="129" width="144"/>
 </item>
 </channel>
