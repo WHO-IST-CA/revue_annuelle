@@ -10,22 +10,110 @@
 <atom:link href="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Tue, 16 Dec 2025 07:03:23 GMT</lastBuildDate>
+<lastBuildDate>Tue, 16 Dec 2025 08:01:06 GMT</lastBuildDate>
 <item>
-  <title>Journée du 10 septembre 2024</title>
+  <title>Journée du 16 décembre 2025</title>
+  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day2.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="card-container">
+ <div class="card">
+        <h3 class="anchored">Compte rendu J1</h3>
+        <p>Rapporteurs J1</p>
+        <a href="presentations\j2\Rapport J1 revue annulle 15 12 2025.docx" download="">Télécharger la présentation</a>
+      </div>  
+  <div class="card">
+    <h3 class="anchored">Présentation Bluesquare</h3>
+    <p>Bluesquare</p>
+    <a href="presentations\j2\[Draft Bluesquare] Présentation PTF_revue annuelle 2025_Matadi.ML.pptx" download="">Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">Presentation Ville Province de Kinshasa</h3>
+    <p>MCP Kinshasa</p>
+    <a href="presentations\j2\12122025_Kinshasa_Présentation_Provinces_perfomance_PEV_VF.pptx" download="">Télécharger la présentation</a>
+  </div>
+    <div class="card">
+    <h3 class="anchored">Présentation Zones de santé spéciales</h3>
+    <p>MCZ Bulape</p>
+    <a href="presentations\j2\Canevas_zones de santé spéciales.pptx" download="">Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">Présentation Kasai</h3>
+    <p>MCP Kasai</p>
+    <a href="presentations\j2\DPS_KASAI _revue annuelle 2025_FAE_IPVS_PEV_JKpptx.pptx" download="">Télécharger la présentation(FR)</a>
+    </div>
+    <div class="card">
+        <h3 class="anchored">Présentation Lomami</h3>
+        <p>MCP Lomami</p>
+        <a href="presentations\j2\FINAL_LOMAMI_PEV_VF.ML.pptx" download="">Télécharger la présentation(FR)</a>
+        </div>
+    <div class="card">
+        <h3 class="anchored">Présentation Sankuru</h3>
+        <p>MCP Sankuru</p>
+        <a href="presentations\j2\FV SANKURU Matadi Canevas_Présentation_Provinces _revue annuelle 2025_PEV 16 12 2025.pptx" download="">Télécharger la présentation(FR)</a>
+        </div>
+    <div class="card">
+        <h3 class="anchored">Présentation Haut Lomami</h3>
+        <p>MCP Haut Lomami</p>
+        <a href="presentations\j2\HLO_Présentation_Provinces du Haut lomami_revue annuelle 2025_PEV_VF.pptx" download="">Télécharger la présentation(FR)</a>
+        </div>
+    <div class="card">
+        <h3 class="anchored">Leçons apprises et bonnes bratiques d’introduction du VAP en RDC</h3>
+        <p>CS Nouveaux Vaccins</p>
+        <a href="presentations\j2\Lecons apprises d’introduction du VAP en RDC Final 16122024.pptx" download="">Télécharger la présentation(FR)</a>
+        </div>
+    <div class="card">
+        <h3 class="anchored">Présentation Mai-Ndombe</h3>
+        <p>MCP Mai-Ndombe</p>
+        <a href="presentations\j2\Mai-Ndombe Présentation_Revue annuelle 2025_PEV.pptx" download="">Télécharger la présentation(FR)</a>
+        </div>           
+    <div class="card">
+        <h3 class="anchored">Présentation Maniema</h3>
+        <p>MCP Maniema</p>
+        <a href="presentations\j2\Maniema _revue annuelle 2025_PEV_VF.ML. [Enregistrement automatique].pptx" download="">Télécharger la présentation(FR)</a>
+        </div>           
+    <div class="card">
+        <h3 class="anchored">Présentation Tshopo</h3>
+        <p>MCP Tshopo</p>
+        <a href="presentations\j2\MCP_Provinces_TSHOPO_revue annuelle 2025 ok_PEV_VF. 11 12 2025.pptx" download="">Télécharger la présentation(FR)</a>
+        </div>           
+    <div class="card">
+        <h3 class="anchored">MISSION CONJOINTE DE  SUPERVISION SUR LE RENFORCEMENT DE LA VACCINATION DE ROUTINE</h3>
+        <p>MCA Kinshasa</p>
+        <a href="presentations\j2\MISSION CONJOINTE DE  SUPERVISION PEV_3 ANTENNES de KINSHASA_vs3 (1).pptx" download="">Télécharger la présentation(FR)</a>
+        </div>   
+        <div class="card">
+            <h3 class="anchored">Mise en œuvre du grand Rattrapage/Big Cutch UP</h3>
+            <p>Point focal BCU</p>
+            <a href="presentations\j2\OK1_VF_ BCU _Revue Annuelledu Charles 15.12.2025 - OK.pptx" download="">Télécharger la présentation(FR)</a>
+            </div>          
+</div>
+  
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
+  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day2.html</guid>
+  <pubDate>Tue, 16 Dec 2025 08:01:06 GMT</pubDate>
+</item>
+<item>
+  <title>Journée du 16 décembre 2025</title>
   <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour2.html</link>
   <description><![CDATA[ 
 
 
 
 
-<p>Veuillez enregistrer votre présence en suivant le lien <a href="https://worldhealthorg.shinyapps.io/attendance_sheet/" target="_blank" rel="noopener noreferrer">⚠️ Présence effective jour 1</a></p>
+<p>Les enregistrements de la présence effective reprendront dans l’après midi</p>
 
 
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour2.html</guid>
-  <pubDate>Tue, 16 Dec 2025 07:03:23 GMT</pubDate>
+  <pubDate>Tue, 16 Dec 2025 08:01:06 GMT</pubDate>
 </item>
 <item>
   <title>Présentations du 15 décembre 2025</title>
@@ -35,7 +123,6 @@
 
 
 
-<p>presentations1du 15 12 2025 apres reunion Canevas_Groupe_Génération_Demande-Revue-2025 (1) Enregistrement automatique.pptx</p>
 
 
 <div class="card-container">
@@ -106,7 +193,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day1.html</guid>
-  <pubDate>Tue, 16 Dec 2025 07:03:23 GMT</pubDate>
+  <pubDate>Tue, 16 Dec 2025 08:01:06 GMT</pubDate>
 </item>
 <item>
   <title>Inscriptions</title>
@@ -132,7 +219,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/enregistrement.html</guid>
-  <pubDate>Tue, 16 Dec 2025 07:03:23 GMT</pubDate>
+  <pubDate>Tue, 16 Dec 2025 08:01:06 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -204,7 +291,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/note.html</guid>
-  <pubDate>Tue, 16 Dec 2025 07:03:23 GMT</pubDate>
+  <pubDate>Tue, 16 Dec 2025 08:01:06 GMT</pubDate>
 </item>
 <item>
   <title>Agenda</title>
@@ -231,7 +318,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/agenda.html</guid>
-  <pubDate>Tue, 16 Dec 2025 07:03:23 GMT</pubDate>
+  <pubDate>Tue, 16 Dec 2025 08:01:06 GMT</pubDate>
 </item>
 <item>
   <title>Contacts</title>
@@ -245,7 +332,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/about.html</guid>
-  <pubDate>Tue, 16 Dec 2025 07:03:23 GMT</pubDate>
+  <pubDate>Tue, 16 Dec 2025 08:01:06 GMT</pubDate>
   <media:content url="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/header.png" medium="image" type="image/png" height="129" width="144"/>
 </item>
 </channel>
