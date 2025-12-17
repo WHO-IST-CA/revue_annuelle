@@ -10,9 +10,70 @@
 <atom:link href="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Wed, 17 Dec 2025 07:04:25 GMT</lastBuildDate>
+<lastBuildDate>Wed, 17 Dec 2025 08:00:49 GMT</lastBuildDate>
 <item>
-  <title>Journée du 117 décemnbre 2025</title>
+  <title>Journée du 17 décembre 2025</title>
+  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day3.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<div class="card-container">
+     <div class="card">
+        <h3 class="anchored">Compte rendu J2</h3>
+        <p>Rapporteurs J2</p>
+        <a href="presentations\j3\CR J2_Revue annuelle 2025 vfj (5).docx" download="">Télécharger la présentation</a>
+      </div>  
+  <div class="card">
+    <h3 class="anchored">Projet VAR</h3>
+    <p>IMA World</p>
+    <a href="presentations\j3\15122025. Projet VAR_CDC_KASAI.pptx" download="">Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">Réseaux d’apprentissage par les pairs au niveau infranational pour atteindre les enfants zéro-dose</h3>
+    <p>TGLF</p>
+    <a href="presentations\j3\20251217.Présentation de la TGLF-RDC Revue annuelle du PEV.pptx" download="">Télécharger la présentation</a>
+  </div>
+    <div class="card">
+    <h3 class="anchored">Monitorage indépendant de rattrapage des enfants zéro dose</h3>
+    <p>Unicef</p>
+    <a href="presentations\j3\Application Tanahashi_PEV_zero dose_session 1-PEV RDC_ICHESS-UNICEF 2025_version reduite 17_12_2025 - Copie.pptx" download="">Télécharger la présentation</a>
+  </div>
+  <div class="card">
+    <h3 class="anchored">AUDIT ORGANISATIONNEL DU PROGRAMME ELARGI DE VACCINATION </h3>
+    <p>École de Santé</p>
+    <a href="presentations\j3\AUDIT Organisationnel PEV Rev Matadi Rev1 (1).pptx" download="">Télécharger la présentation(FR)</a>
+    </div>
+    <div class="card">
+        <h3 class="anchored">Couverture vaccinale et les inégalités en RDC, données DHIS2 2019 - 2024</h3>
+        <p>École de santé</p>
+        <a href="presentations\j3\Présentation_vaccination.pptx" download="">Télécharger la présentation(FR)</a>
+        </div>
+    <div class="card">
+        <h3 class="anchored">Ajustement des populations cibles</h3>
+        <p>École de santé</p>
+        <a href="presentations\j3\RDC_Ajustement de la taille des populations cibles du PEV_2025_Final (1).pptx" download="">Télécharger la présentation(FR)</a>
+        </div>
+    <div class="card">
+        <h3 class="anchored">RESULTATS AUTO-EVALUATION DES ASSISTANTS TECHNIQUES</h3>
+        <p>Suivi-Évaluation PEV</p>
+        <a href="presentations\j3\RESULTATS AUTO.EVALUATION AT.pptx" download="">Télécharger la présentation(FR)</a>
+        </div>
+</div>
+
+
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
+  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day3.html</guid>
+  <pubDate>Wed, 17 Dec 2025 08:00:49 GMT</pubDate>
+</item>
+<item>
+  <title>Journée du 17 décemnbre 2025</title>
   <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour3.html</link>
   <description><![CDATA[ 
 
@@ -25,7 +86,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour3.html</guid>
-  <pubDate>Wed, 17 Dec 2025 07:04:25 GMT</pubDate>
+  <pubDate>Wed, 17 Dec 2025 08:00:49 GMT</pubDate>
 </item>
 <item>
   <title>Présentations du 16 décembre 2025</title>
@@ -230,7 +291,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day2.html</guid>
-  <pubDate>Wed, 17 Dec 2025 07:04:25 GMT</pubDate>
+  <pubDate>Wed, 17 Dec 2025 08:00:49 GMT</pubDate>
 </item>
 <item>
   <title>Présentations du 15 décembre 2025</title>
@@ -310,7 +371,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day1.html</guid>
-  <pubDate>Wed, 17 Dec 2025 07:04:25 GMT</pubDate>
+  <pubDate>Wed, 17 Dec 2025 08:00:49 GMT</pubDate>
 </item>
 <item>
   <title>Inscriptions</title>
@@ -336,7 +397,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/enregistrement.html</guid>
-  <pubDate>Wed, 17 Dec 2025 07:04:25 GMT</pubDate>
+  <pubDate>Wed, 17 Dec 2025 08:00:49 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -408,7 +469,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/note.html</guid>
-  <pubDate>Wed, 17 Dec 2025 07:04:25 GMT</pubDate>
+  <pubDate>Wed, 17 Dec 2025 08:00:49 GMT</pubDate>
 </item>
 <item>
   <title>Agenda</title>
@@ -435,7 +496,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/agenda.html</guid>
-  <pubDate>Wed, 17 Dec 2025 07:04:26 GMT</pubDate>
+  <pubDate>Wed, 17 Dec 2025 08:00:49 GMT</pubDate>
 </item>
 <item>
   <title>Contacts</title>
@@ -449,7 +510,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/about.html</guid>
-  <pubDate>Wed, 17 Dec 2025 07:04:26 GMT</pubDate>
+  <pubDate>Wed, 17 Dec 2025 08:00:49 GMT</pubDate>
   <media:content url="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/header.png" medium="image" type="image/png" height="129" width="144"/>
 </item>
 </channel>
