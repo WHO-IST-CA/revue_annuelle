@@ -10,7 +10,7 @@
 <atom:link href="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Wed, 17 Dec 2025 16:09:20 GMT</lastBuildDate>
+<lastBuildDate>Wed, 17 Dec 2025 16:20:37 GMT</lastBuildDate>
 <item>
   <title>Journée du 17 décembre 2025</title>
   <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day3.html</link>
@@ -22,6 +22,15 @@
 
 
 <div class="card-container">
+      <div class="card">
+    <h3 class="anchored">Travaux de groupes</h3>
+    <p>Documents de travail pour les sessions de travaux</p>
+    <a href="presentations\j3\Revue annuel PEV 2025 _ Caneva PAO 2026 (1).xlsx" download="">Télécharger le document</a>
+    <a href="presentations\j3\Revue annuelle PEV 2025 _ Presentation Orientation generales (2).pptx" download="">Télécharger le document</a>
+     <a href="presentations\j3\drive-download-20251217T160145Z-1-001.zip" download="">Télécharger les documents compressés</a>
+     <a href="presentations\j3\RDC_narratif_subvention_de_transition_17102025.docx" download="">Télécharger le plan de transition</a>
+      <a href="presentations\j3\fichestechniques.zip" download="">Télécharger les fiches techniques</a>
+    </div>  
      <div class="card">
         <h3 class="anchored">Compte rendu J2</h3>
         <p>Rapporteurs J2</p>
@@ -62,16 +71,6 @@
         <p>Suivi-Évaluation PEV</p>
         <a href="presentations\j3\RESULTATS AUTO.EVALUATION AT.pptx" download="">Télécharger la présentation(FR)</a>
         </div>
-        
-    <div class="card">
-    <h3 class="anchored">Travaux de groupes</h3>
-    <p>Documents de travail pour les sessions de travaux</p>
-    <a href="presentations\j3\Revue annuel PEV 2025 _ Caneva PAO 2026 (1).xlsx" download="">Télécharger le document</a>
-    <a href="presentations\j3\Revue annuelle PEV 2025 _ Presentation Orientation generales (2).pptx" download="">Télécharger le document</a>
-     <a href="presentations\j3\drive-download-20251217T160145Z-1-001.zip" download="">Télécharger les documents compressés</a>
-     <a href="presentations\j3\RDC_narratif_subvention_de_transition_17102025.docx" download="">Télécharger le plan de transition</a>
-    </div>   
-    
   <div class="card">
   <h3 class="anchored">Intégration des activités pour 2026: perspective</h3>
   <p>PEV-RDC</p>
@@ -98,7 +97,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day3.html</guid>
-  <pubDate>Wed, 17 Dec 2025 16:09:20 GMT</pubDate>
+  <pubDate>Wed, 17 Dec 2025 16:20:37 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 17 décemnbre 2025</title>
@@ -121,7 +120,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour3.html</guid>
-  <pubDate>Wed, 17 Dec 2025 16:09:20 GMT</pubDate>
+  <pubDate>Wed, 17 Dec 2025 16:20:37 GMT</pubDate>
 </item>
 <item>
   <title>Présentations du 16 décembre 2025</title>
@@ -326,7 +325,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day2.html</guid>
-  <pubDate>Wed, 17 Dec 2025 16:09:20 GMT</pubDate>
+  <pubDate>Wed, 17 Dec 2025 16:20:37 GMT</pubDate>
 </item>
 <item>
   <title>Présentations du 15 décembre 2025</title>
@@ -406,7 +405,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day1.html</guid>
-  <pubDate>Wed, 17 Dec 2025 16:09:20 GMT</pubDate>
+  <pubDate>Wed, 17 Dec 2025 16:20:37 GMT</pubDate>
 </item>
 <item>
   <title>Inscriptions</title>
@@ -432,7 +431,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/enregistrement.html</guid>
-  <pubDate>Wed, 17 Dec 2025 16:09:20 GMT</pubDate>
+  <pubDate>Wed, 17 Dec 2025 16:20:37 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -504,7 +503,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/note.html</guid>
-  <pubDate>Wed, 17 Dec 2025 16:09:20 GMT</pubDate>
+  <pubDate>Wed, 17 Dec 2025 16:20:37 GMT</pubDate>
 </item>
 <item>
   <title>Agenda</title>
@@ -531,7 +530,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/agenda.html</guid>
-  <pubDate>Wed, 17 Dec 2025 16:09:20 GMT</pubDate>
+  <pubDate>Wed, 17 Dec 2025 16:20:37 GMT</pubDate>
 </item>
 <item>
   <title>Contacts</title>
@@ -545,7 +544,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/about.html</guid>
-  <pubDate>Wed, 17 Dec 2025 16:09:20 GMT</pubDate>
+  <pubDate>Wed, 17 Dec 2025 16:20:37 GMT</pubDate>
   <media:content url="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/header.png" medium="image" type="image/png" height="129" width="144"/>
 </item>
 </channel>
