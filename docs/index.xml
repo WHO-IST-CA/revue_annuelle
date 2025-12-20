@@ -10,7 +10,23 @@
 <atom:link href="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Fri, 19 Dec 2025 08:22:30 GMT</lastBuildDate>
+<lastBuildDate>Sat, 20 Dec 2025 07:36:00 GMT</lastBuildDate>
+<item>
+  <title>Présence du 20 décembre 2025</title>
+  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour6.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Veuillez enregistrer votre présence en suivant le lien <a href="https://worldhealthorg.shinyapps.io/attendance_sheet/" target="_blank" rel="noopener noreferrer">⚠️ Présence effective jour 6</a></p>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
+  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour6.html</guid>
+  <pubDate>Sat, 20 Dec 2025 07:36:00 GMT</pubDate>
+</item>
 <item>
   <title>Présentations du 19 décembre 2025</title>
   <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day5.html</link>
@@ -33,6 +49,17 @@
                         <p>COUP</p>
                         <a href="presentations\j5\PRESENTATION DU COUP A LA REVUE ANNUELLE PEV_2025  VF.pptx" download="">Télécharger la présentation(FR)</a>
                         </div>
+                        
+  
+  <div class="card">
+                        <h3 class="anchored">Restitutions des travaux de groupes </h3>
+                        <p>Groupes</p>
+                        <a href="presentations\j5\restitutions.zip" download="">Télécharger les restitutions</a>
+                        <a href="presentations\j5\documentsPAO.zip" download="">Télécharger les documents de supports</a>
+
+                        </div>                      
+                        
+                        
 </div>
 
 
@@ -40,7 +67,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day5.html</guid>
-  <pubDate>Fri, 19 Dec 2025 08:22:30 GMT</pubDate>
+  <pubDate>Sat, 20 Dec 2025 07:36:00 GMT</pubDate>
 </item>
 <item>
   <title>Présentations du 18 décembre 2025</title>
@@ -64,7 +91,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day4.html</guid>
-  <pubDate>Fri, 19 Dec 2025 08:22:30 GMT</pubDate>
+  <pubDate>Sat, 20 Dec 2025 07:36:00 GMT</pubDate>
 </item>
 <item>
   <title>Présence du 19 décembre 2025</title>
@@ -74,13 +101,19 @@
 
 
 
-<p>Veuillez enregistrer votre présence en suivant le lien <a href="https://worldhealthorg.shinyapps.io/attendance_sheet/" target="_blank" rel="noopener noreferrer">⚠️ Présence effective jour 5</a></p>
+<p><strong><span color="red">51</span> participants enregistrés </strong><br> <em>Tous les participants enregistrés n’ont pas de coordonées GPS</em></p>
+<div class="cell page-columns page-full">
+<div class="cell-output-display column-screen">
+<div class="leaflet html-widget html-fill-item" id="htmlwidget-9c556d625eb9692bd882" style="width:100%;height:1152px;"></div>
+<script type="application/json" data-for="htmlwidget-9c556d625eb9692bd882">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]},{"method":"addMarkers","args":[[-5.8387601,-5.838789991172853,-5.8374743,-5.8369095,-4.33,-5.8387896,-4.3614208,-5.8384927,-5.838661,-5.8385039,-5.837796,-4.299895,-5.6595408,-5.8359808,-5.838929,-5.8384937,-4.3778048,-4.3778048,-5.8384931,-5.8389908,-5.8381797,-5.8384333,-5.837792,-5.8381781,-4.299895,-5.838555879601707,-5.837837837837838,-5.8386057,-5.8371526,-5.8393167,-5.8394317,-4.33],[13.4499168,13.45009413190018,13.4513574,13.4481062,15.3104,13.4501259,15.3059328,13.4501041,13.4500905,13.4501017,13.4513574,15.31758,14.1949053,13.4610944,13.450007,13.4501087,15.3223168,15.3223168,13.4501063,13.4496848,13.4502367,13.4500934,13.450193,13.4502344,15.31758,13.45017273418622,13.45717962018294,13.4503625,13.4513574,13.450025,13.44857,15.3104],null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},["Rufin Kabesa","Jacky MATONDO","Muteb Tshingambu Augustin","Crispin LUMBALA","KISAMBA PAKA Bienfait","Jean Louis MOPENE MO-EGBOLO","JIBIKILAYI KASANDA SERGE","AVEBA ZITONO Alain","Alphonse Lwisonga","Benedict Nguimbis","Hubert IBI","Fred BULOBO MBAYO","Aimé SOBONGO","Mpanya Ilunga Godefroid","DANVENE SANGBA DAVOS","Jean-Pierre KIJANA MANIMININI","Merveille Tukutuku","Michel OTEPA","Thierry Kazadi","KAYIJ MWINKEU ALAIN","André Tonda","Patrick Kyungu","Simon PUNGU","KOTANDA BINA CHRISTOPHE","Jean Pierre OKANDJO OKITO LOMA","FRANCIS KABASUBABO KABENGELE","Chaltin Ambanga","DJENEBA COULIBALY EPSE TRAORE","generose matunda","NGOY Lubambula Clément","Steve Matoma","KISAMBA PAKA Bienfait"],null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"fitBounds":[-6.1,13.2,-4.1,15.5,[]],"limits":{"lat":[-5.8394317,-4.299895],"lng":[13.4481062,15.3223168]}},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
 
 
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour5.html</guid>
-  <pubDate>Fri, 19 Dec 2025 08:22:30 GMT</pubDate>
+  <pubDate>Sat, 20 Dec 2025 07:36:00 GMT</pubDate>
 </item>
 <item>
   <title>Présence du 18 décembre 2025</title>
@@ -102,7 +135,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour4.html</guid>
-  <pubDate>Fri, 19 Dec 2025 08:22:30 GMT</pubDate>
+  <pubDate>Sat, 20 Dec 2025 07:36:00 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 17 décembre 2025</title>
@@ -183,7 +216,7 @@
                      <div class="card">
                     <h3 class="anchored">Présentation IGS </h3>
                     <p>IGS</p>
-                    <a href="presentations/j3/VF Revue_PEV_ Présentation IGS (1).pptx" download="">Télécharger la présentation(FR)</a>
+                    <a href="presentations/j3/VF Revue_PEV_ Présentation IGS.pptx" download="">Télécharger la présentation(FR)</a>
                     </div>
                     
                       
@@ -197,7 +230,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day3.html</guid>
-  <pubDate>Fri, 19 Dec 2025 08:22:30 GMT</pubDate>
+  <pubDate>Sat, 20 Dec 2025 07:36:00 GMT</pubDate>
 </item>
 <item>
   <title>Présence du 17 décemnbre 2025</title>
@@ -220,7 +253,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour3.html</guid>
-  <pubDate>Fri, 19 Dec 2025 08:22:30 GMT</pubDate>
+  <pubDate>Sat, 20 Dec 2025 07:36:00 GMT</pubDate>
 </item>
 <item>
   <title>Présentations du 16 décembre 2025</title>
@@ -425,7 +458,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day2.html</guid>
-  <pubDate>Fri, 19 Dec 2025 08:22:30 GMT</pubDate>
+  <pubDate>Sat, 20 Dec 2025 07:36:00 GMT</pubDate>
 </item>
 <item>
   <title>Présentations du 15 décembre 2025</title>
@@ -505,7 +538,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day1.html</guid>
-  <pubDate>Fri, 19 Dec 2025 08:22:30 GMT</pubDate>
+  <pubDate>Sat, 20 Dec 2025 07:36:00 GMT</pubDate>
 </item>
 <item>
   <title>Inscriptions</title>
@@ -531,7 +564,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/enregistrement.html</guid>
-  <pubDate>Fri, 19 Dec 2025 08:22:30 GMT</pubDate>
+  <pubDate>Sat, 20 Dec 2025 07:36:00 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -603,7 +636,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/note.html</guid>
-  <pubDate>Fri, 19 Dec 2025 08:22:30 GMT</pubDate>
+  <pubDate>Sat, 20 Dec 2025 07:36:00 GMT</pubDate>
 </item>
 <item>
   <title>Agenda</title>
@@ -630,7 +663,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/agenda.html</guid>
-  <pubDate>Fri, 19 Dec 2025 08:22:30 GMT</pubDate>
+  <pubDate>Sat, 20 Dec 2025 07:36:00 GMT</pubDate>
 </item>
 <item>
   <title>Contacts</title>
@@ -644,7 +677,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/about.html</guid>
-  <pubDate>Fri, 19 Dec 2025 08:22:30 GMT</pubDate>
+  <pubDate>Sat, 20 Dec 2025 07:36:00 GMT</pubDate>
   <media:content url="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/header.png" medium="image" type="image/png" height="129" width="144"/>
 </item>
 </channel>
